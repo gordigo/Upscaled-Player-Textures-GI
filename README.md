@@ -7,3 +7,7 @@ Alphas are bundled in a separate folder so you don't have to use alpha mask to r
 
 Will upscale textures for mods that have custom textures as Hakezer's Mona and Raiden, Cybertron's Succubus Raiden or Silent's LongHaired Sucrose, for these upscales a drop-in replacement .DDS will be provided so just replace the original texture in your mod folder.
 
+These are the results that can be expected from this upscaled textures
+
+https://screenshotcomparison.com/comparison/29532
+
