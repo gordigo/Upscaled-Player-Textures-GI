@@ -1,6 +1,9 @@
 # Upscaled-Player-Textures-GI
 Compilation of upscaled textures for characters of a certain anime game.
 
+
+*If you see full white Alphas, it's me being lazy when extracting those from textures that don't need alpha, feel free to ignore those*
+
 -Added upscale based on PS5's textures which are 2K in resolution all thanks to Sultana@Festivity's Datamining Server, you can find the sorted textures in Zeroruka's Github here https://github.com/zeroruka/GI-Assets.
 
 Disclaimer not all textures are available just a few and most PS5 Textures need a vertical flip before being used
